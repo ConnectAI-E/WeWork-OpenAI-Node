@@ -1,19 +1,31 @@
-# 零代码 一键部署ChatGPT企业微信应用 <br/>
-
-**完成面向企业应用场景，一键部署，Serverless 无服务器模式，向导式安装，文档详细，安全可靠，网络延迟小,速度快**
-
 
 
 <div align="center">
-    <img src="https://user-images.githubusercontent.com/12178686/233244040-7ab04261-79d7-4588-b8b1-18fc64d9f040.png" width="400px">
-</div>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/12178686/233246963-9f7e5eb0-d78f-4286-8536-2f4e9f9bee11.png" width="800px">
+    <img src="" width="400px">
 </div>
 
-<div align="center"  style="font-size: 12px; line-height: 12px;">
-   ChatGPT 接入企业微信,赋能商业成功
-</div>
+<p align='center'>
+    <img src="https://user-images.githubusercontent.com/12178686/233246963-9f7e5eb0-d78f-4286-8536-2f4e9f9bee11.png"  alt='' width='800'/>
+</p>
+
+<details align='center'>
+    <summary> 📷 点击展开完整功能截图</summary>
+    <br>
+    <p align='center'>
+    <img src='https://user-images.githubusercontent.com/12178686/233244040-7ab04261-79d7-4588-b8b1-18fc64d9f040.png' alt='语音对话' width='400'/>
+    </p>
+
+</details>
+
+<br>
+
+<p align='center'>
+   企业微信 × OpenAI
+<br>
+<br>
+    🚀 WeWork OpenAI (node) 🚀
+</p>
+
 
 ## 商业支持
 如果开源版无法满足您公司的需求，推荐您尝试目前正在内测的商业交付版本
@@ -24,6 +36,13 @@
 - 同时提供在线Saas版/企业级私有部署
 
 查看更多内容: https://connect-ai.forkway.cn
+
+## 🌟 项目特点
+
+- 完成面向企业应用场景，
+- 一键部署，Serverless 无服务器模式，
+- 向导式安装，文档详细，安全可靠，网络延迟小,速度快
+
 
 ## 🥁 号外号外!
 
@@ -76,6 +95,9 @@ AIGC的热潮正在各行各业掀起巨大的变革，我们看到各大社群�
 
 ## 部署方法
 
+<details>
+    <summary>云函数部署</summary>
+<br>
 1. 创建企业微信应用<br>
 
 第一步，创建应用，操作方法：企微管理员， 电脑端上的企业微信-->头像-->管理企业-->应用管理-->（最下面）创建应用-->应用logo + 填入基本信息
@@ -124,3 +146,4 @@ IP地址如下图，Render->Connect->Outbound
 <br/>
 
 :100: 下面就可以直接体验了，手机或电脑上企业微信进入自己创建的应用，可以和ChatGPT的聊起来了。 
+</details>
