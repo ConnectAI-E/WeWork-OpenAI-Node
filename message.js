@@ -5,7 +5,7 @@ import request from "request";
 import crypto from "crypto";
 import { parseString }  from "xml2js";
 import { getAccessToken } from "./config.js";
-import { xmlmsg1,xmlmsg2 } from "./templates.js";
+import { xmlmsg1 } from "./templates.js";
 
 config();
 

@@ -9,7 +9,7 @@ export function xmlmsg1(toUser, fromUser, timeStamp, content) {
           </xml>`;
 };
 
-
+/*to defend your message template*/
 export function xmlmsg2(toUser, fromUser, timeStamp, content) {
   
   return `<xml>
