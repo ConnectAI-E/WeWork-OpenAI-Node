@@ -1,19 +1,83 @@
-# 零代码 一键部署ChatGPT企业微信应用 <br/>
 
-**完成面向企业应用场景，一键部署，Serverless 无服务器模式，向导式安装，文档详细，安全可靠，网络延迟小,速度快**
+<p align='center'>
+    <img src="https://user-images.githubusercontent.com/12178686/233246963-9f7e5eb0-d78f-4286-8536-2f4e9f9bee11.png"  alt='' width='800'/>
+</p>
+
+<details align='center'>
+    <summary> 📷 点击展开完整功能截图</summary>
+    <br>
+    <p align='center'>
+    <img src='https://user-images.githubusercontent.com/12178686/233244040-7ab04261-79d7-4588-b8b1-18fc64d9f040.png' alt='语音对话' width='400'/>
+    </p>
+
+</details>
+
+<br>
+
+<p align='center'>
+   企业微信 × OpenAI
+<br>
+<br>
+    🚀 WeWork OpenAI (node) 🚀
+</p>
 
 
+## 商业支持
+如果开源版无法满足您公司的需求，推荐您尝试目前正在内测的商业交付版本
 
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/12178686/233244040-7ab04261-79d7-4588-b8b1-18fc64d9f040.png" width="400px">
-</div>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/12178686/233246963-9f7e5eb0-d78f-4286-8536-2f4e9f9bee11.png" width="800px">
-</div>
+- 内置开箱即用的Azure Openai: 无需部署到海外，即可获得数十倍的性能提升
+- 掌控全局的Admin Panel: AI资源管理、对话日志查询、风险词规避和对话权限管理
+- 专人技术支持: 配备专业部署交付人员与后期一对一维护服务
+- 同时提供在线Saas版/企业级私有部署
 
-<div align="center"  style="font-size: 12px; line-height: 12px;">
-   ChatGPT 接入企业微信,赋能商业成功
-</div>
+查看更多内容: https://connect-ai.forkway.cn
+
+## 🌟 项目特点
+
+- 完成面向企业应用场景，
+- 一键部署，Serverless 无服务器模式，
+- 向导式安装，文档详细，安全可靠，网络延迟小,速度快
+
+
+## 🥁 号外号外!
+
+大家好呀！我是[feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI)的作者River。非常兴奋地欢迎大家加入我们的[Connect-AI开源马拉松](https://fork-way.feishu.cn/base/LzPObR5YQaHSAssauDAcZdS3nuo?table=tblvKqjRYNfmoLMo&view=vewsekmPW4)活动！
+
+AIGC的热潮正在各行各业掀起巨大的变革，我们看到各大社群以”知识xx“为代表的”割韭菜“行为，不禁感到无奈。身为互联网行业的从业者,与其指点江山激扬文字，不如参与其中，感受发展。为此我们成立了下面10个课题组，并从技术可行性的基础上进行了调研，现并欢迎大家自由选择组队并加入相关的项目推进群。
+
+<p align='center' >
+    <img width="1200" alt="image" src="https://user-images.githubusercontent.com/50035229/232206534-0260de35-b0e0-4777-ae8b-0e87f14c8e9f.png">
+</p>
+
+无论您是设计师、前端工程师、后端工程师、算法工程师还是测试小伙伴，只要您对GPT技术充满热情，就可以参与到我们的开源项目中来。设计师们可以参与多个repo，优化项目的交互体验和设计风格；前端工程师可以参与每个项目的UI搭建；后端和算法工程师们则可以积极学习AI能力的使用。我们还诚邀测试小伙伴参与每次发版前的功能内测。
+
+每个项目都需要招募一个项目负责人，我们会将其指定为repo的owner。如果您愿意深度参与，可以找我报名成为负责人。当然，如果项目表上有队长名称，则代表已经招募完成。其他同学可以在业余时间参与一个或多个项目。
+
+我们的目标是为AI开源社区提供一个可持续性的生态系统，并且鼓励更多的人参与其中，共同推进AI技术的发展。后续遇到企业的定制AI开发需求，我们会优先邀请相关课题的同学参与，这样既可以帮助他们获取不错的收入，也符合开源的精神和原则。我们希望通过这样的方式，让我们的开源项目更有可持续性，让更多人愿意加入我们，共同推进AI技术的发展！
+
+预期奖励内容包括：
+  - A奖励：小队完成度奖励，鼓励小队长参与项目，能够在指定时间内完成课题规定的基本内容，队长应获得一定的奖励。
+  - B奖励：项目优秀度奖励，根据项目复杂度、组内配合度、产品创意度，以及期中和期末用户体验打分，评选出部分优秀项目的队长和核心队员，并给予相应奖励。
+  - C奖励：成员活跃度奖励，考虑到设计和测试身份的特殊性，无法单独带领项目。因此，我们将评选出优秀设计师和优秀测试反馈员，以表彰他们在项目中的积极参与和贡献。
+ 
+ 做出下面奖励安排
+  - A奖励项目完成度：京东E卡300 * 10
+  - B奖励项目优秀度：
+    - 杰出奖: iPhone14 * 1 + 京东E卡300 * 3
+    - 优秀奖: PS5 * 1 + 京东E卡300 * 3
+  - C奖励成员活跃度：京东E卡300 * 4
+ 
+我们队员有
+- [EX-chatGPT](https://github.com/circlestarzero/EX-chatGPT)和[ChatPaper的维护者](https://github.com/kaixindelele/ChatPaper)-->[cc](https://github.com/circlestarzero)
+- [钉钉GPT的维护者](https://github.com/eryajf/chatgpt-dingtalk)-->[eryajf](https://github.com/eryajf)
+- [飞书GPT的维护者](https://github.com/Leizhenpeng/feishu-chatgpt)-->[river](https://space.bilibili.com/66891783)
+- [上百款在线设计插件的开发者](https://mastergo.com/community/profile/72319417503384?tab=plugin)-->山山
+- 正在心动的你！
+
+
+如果您对Connect-AI开源马拉松感兴趣，请随时加入项目推进群，一起为AI技术的未来贡献力量！
+
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/50035229/233607863-b58f7097-2454-4feb-8cae-822ee41267f9.png">
 
 ## 关于本项目
 本项目可以实现一键部署ChatGPT到企业微信中，使ChatGPT与企业微信完美融合，手机或电脑上，打开企业微信，就可以使用强大的ChatGPT智能问答。本方案灵活性高，如果你不具备开发能力，可以使用下面方面1，直接一键安装即可；如果你是开发者，具有二次开发能力，可以按下面方法2任意扩展，<br>
@@ -26,6 +90,9 @@
 
 ## 部署方法
 
+<details>
+    <summary>云函数部署</summary>
+<br>
 1. 创建企业微信应用<br>
 
 第一步，创建应用，操作方法：企微管理员， 电脑端上的企业微信-->头像-->管理企业-->应用管理-->（最下面）创建应用-->应用logo + 填入基本信息
@@ -74,3 +141,4 @@ IP地址如下图，Render->Connect->Outbound
 <br/>
 
 :100: 下面就可以直接体验了，手机或电脑上企业微信进入自己创建的应用，可以和ChatGPT的聊起来了。 
+</details>
