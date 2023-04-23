@@ -1,4 +1,3 @@
-import utf8  from "utf8";
 import express from "express";
 import { config } from "dotenv";
 import bodyParser from 'body-parser';
@@ -45,7 +44,7 @@ app.post('/message', function (req, res, next) {
         getAIChat(question).then(result => {
             const content = result?.data?.choices[0]?.message?.content;
             if(!!content) {
-                const answer = utf8.encode(content);
+                const answer = Buffer.from(content, 'utf-8').toString();
                 console.log(answer);
                 message.sendMsg(answer, toUser);
             }
