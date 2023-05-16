@@ -160,6 +160,6 @@ IP地址如下图，Render->Connect->Outbound
 docker run --env-file .env.local -p 6060:6060 -d docker4bill/ww-openai-node:alpine
 ```
 
-3. 用 `caddy` 或者 `nginx` 给以上服务做个反代即可
+4. 用 `caddy` 或者 `nginx` 给以上服务做个反代即可
 
 </details>
