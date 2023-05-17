@@ -142,3 +142,24 @@ IP地址如下图，Render->Connect->Outbound
 
 :100: 下面就可以直接体验了，手机或电脑上企业微信进入自己创建的应用，可以和ChatGPT的聊起来了。 
 </details>
+
+<details>
+<summary>服务器docker部署</summary>
+
+1. 前提条件:
+  - 一台服务器
+  - 一个域名
+
+2. 复制变量文件 `.env.example`，填写自己的配置
+
+3. 运行docker
+假设新变量文件名为 `.env.local`
+
+```bash
+# docker4bill/ww-openai-node:alpine 为构建好的镜像，你也可以利用本仓库的 Dockerfile 构建自己的镜像
+docker run --env-file .env.local -p 6060:6060 -d docker4bill/ww-openai-node:alpine
+```
+
+4. 用 `caddy` 或者 `nginx` 给以上服务做个反代即可
+
+</details>
